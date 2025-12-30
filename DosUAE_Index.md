@@ -10,6 +10,8 @@ The minimal host-system should be a Pentium or Dx PC with an SVGA board and 20 M
 |---|---|
 | Esc | exit the settings menu |
 | F12 | exit from emulation |
+| `HOME`+`ESC` | go back to DOS prompt |
+| `HOME`+`F1` | go back to Menu to change disks, etc. |
 | Page Up, Page Down | These are the two `Amiga` special key |
 | Print Screen | dump the current screen to a Targa 24 bits file. |
 
